@@ -1,4 +1,1 @@
-hello-world
-===========
-
-My First Github Repo
+This is My First Git Project
